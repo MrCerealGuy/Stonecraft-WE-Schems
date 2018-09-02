@@ -8,6 +8,6 @@ WorldEdit Schematics for Stonecraft and Minetest.
 ![](/img/NuclearReactor_2.png)
 
 Author: Andreas Zahnleiter  
-Created with: Stonecraft 1.2.9-alpha
-Date: 02-09-2018
+Created with: Stonecraft 1.2.9-alpha  
+Date: 02-09-2018  
 Dependencies: Technic
